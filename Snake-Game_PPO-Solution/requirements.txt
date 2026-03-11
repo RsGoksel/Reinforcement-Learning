@@ -1,0 +1,5 @@
+pygame
+stable-baselines3
+numpy
+gym
+shimmy>=0.2.1
